@@ -8,7 +8,7 @@
     <string>atig</string>
     <key>ProgramArguments</key>
     <array>
-      <string>/Users/freddie/.rbenv/shim/atig</string>
+      <string>/Users/freddie/.rbenv/shims/atig</string>
       <string>-c</string>
       <string>/Users/freddie/.atig/config</string>
       <string>-l</string>
