@@ -5,7 +5,7 @@
     <key>Disabled</key>
     <false/>
     <key>Label</key>
-    <string>command</string>
+    <string>atig</string>
     <key>ProgramArguments</key>
     <array>
       <string>/Users/freddie/.rbenv/shim/atig</string>
