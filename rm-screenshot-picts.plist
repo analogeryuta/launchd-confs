@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>Disabled</key>
-    <false/>
     <key>Label</key>
     <string>rm-screenshot-picts</string>
     <key>ProgramArguments</key>
@@ -18,8 +16,6 @@
       <integer>18</integer>
       <key>Minute</key>
       <integer>30</integer>
-    <dict>
-    <key>RunAtLoad</key>
-    <true/>
+    </dict>
   </dict>
 </plist>
